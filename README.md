@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋. I'm a passionate full-stack developer with around 5 years of hands-on experience in developing scalable websites/ applications using a wide range of front-end and back-end skills like HTML, CSS, Angular, React JS, Node JS and in cloud - AWS. Developing 10+ websites from scratch at Scaler. Looking to further enhance my skills as the future full stack developer.
+Hi there 👋. I'm a passionate full-stack developer with around 6 years of hands-on experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, Angular, React JS, Node JS and in cloud - AWS, Azure, Gcloud. Developing 10+ websapps from scratch. Looking to further enhance my skills as the future full stack developer.
 
 
 ## 🌐 Socials:
